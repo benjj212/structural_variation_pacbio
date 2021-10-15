@@ -2,8 +2,8 @@
 ### loading modules
 ml r/3.5.1-foss-2018b
 ml bedtools/2.27.1-foss-2018b
-### generating bed files from the coordinate in TAIR10
 
+### generating bed files from the coordinate in TAIR10
 AT_number=$1
 number_gene_side=5
 path_to_output=/groups/nordborg/projects/tumv_resistance/005_results/018_structural_rearrangements/
